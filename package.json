@@ -1,0 +1,15 @@
+{
+  "name": "ipfinderapp",
+  "version": "1.0.0",
+  "description": "ipfinderapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Axel Caceres Prayones",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
